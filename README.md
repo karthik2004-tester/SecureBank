@@ -361,6 +361,7 @@ Frontend / Dashboard	Streamlit
 Model Persistence	Joblib
 Configuration	python-dotenv
 Development Tools	Git, GitHub, VS Code
+
 📁 Project Structure
 SecureBank/
 │
@@ -387,6 +388,7 @@ SecureBank/
 ├── test_connection.py
 ├── requirements.txt
 └── .gitignore
+
 ⚙️ Installation & Setup
 1. Clone the Repository
 git clone https://github.com/karthik2004-tester/SecureBank.git
